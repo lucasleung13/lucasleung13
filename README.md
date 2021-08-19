@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasleung13
+- 👋 Hi, I’m Lucas!
 - 👀 I’m interested in product management, UI/UX and web development.
 - 🌱 I’m currently learning C, Python, Java, SQL, CSS and HTML.
 - 💞️ I’m looking to collaborate on ...
