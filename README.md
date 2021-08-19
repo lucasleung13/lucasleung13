@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasleung13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C and Python
+- 👀 I’m interested in product management, UI/UX and web development.
+- 🌱 I’m currently learning C, Python, Java, SQL, CSS and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "https://www.linkedin.com/in/lucasleung13/"
 
