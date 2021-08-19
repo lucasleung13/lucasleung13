@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas!
-- 👀 I’m interested in product management, UI/UX and web development.
+- 👀 I’m interested in product management, UI/UX, web development and tech consulting.
 - 🌱 I’m currently learning C, Python, Java, SQL, CSS and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "https://www.linkedin.com/in/lucasleung13/"
